@@ -1,7 +1,3 @@
-### README for "InfinityRSI Trader"
-
----
-
 # InfinityRSI Trader
 Welcome to **InfinityRSI Trader**, the ultimate trading expert advisor crafted with care by an 11th-grade prodigy! 🚀 This MQL4 script utilizes the power of the Relative Strength Index (RSI) to execute trades with precision, ensuring you stay ahead in the trading game. Let's dive into the details of this amazing project!
 
